@@ -1,0 +1,15 @@
+# Binaries
+main
+cmd/main
+
+# Environment variables
+.env
+
+# Dependencies
+vendor/
+
+# IDE files
+.idea/
+# Configuration files
+config/config.go
+.env
